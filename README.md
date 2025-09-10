@@ -13,6 +13,13 @@ Java 언어와 JVM 심화 학습 저장소입니다.
 - JDBC, Connection Pool, Transaction 이해
 
 ---
+## 참고한 책, 영상
+- jvm: JVM 밑바닥까지 파헤치기
+<img width="617" height="775" alt="image" src="https://github.com/user-attachments/assets/c7481f9a-c7ad-4e77-b6c5-7a6cd1c1e97a" />
+
+- java: 김영한 java 초급, 중급, 고급 (전편)
+
+---
 
 ## 📆 학습 기록
 
