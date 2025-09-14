@@ -68,7 +68,7 @@ static class Entry<K,V> extends HashMap.Node<K,V> {
     }
 ```
 - capture
-![alt text](/study-java/resources/image-3.png)
+![alt text](../resources/image-3.png)
 
 ---
 ## concreate class: HashMap
@@ -87,7 +87,7 @@ public class HashMap<K,V> extends AbstractMap<K,V>
     }
 ```
 - capture
-![alt text](/study-java/resources/image-4.png)
+![alt text](../resources/image-4.png)
 
 
 
@@ -182,7 +182,7 @@ public interface Map<K, V> {
 
 ```
 - capture
-![alt text](/study-java/resources/image-1.png)
+![alt text](../resources/image-1.png)
 
 
 
