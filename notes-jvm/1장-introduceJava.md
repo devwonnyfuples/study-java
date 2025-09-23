@@ -24,7 +24,7 @@
     - java program을 실행할 수 있는 표준 환경 제공
 
 ### 자바 기술 시스템 규성 요소
-![자바 기술 시스템의 구성 요소](../resources/자바기술시스템의구성요소.png.png)
+![자바 기술 시스템의 구성 요소](../resources/자바기술시스템의구성요소.png)
 
 - 자바 언어 : 자바 언어
 - 도구, api : java, javac, javadoc, jar, javap, JPDA, JConsole, java VisualVM, JMC, JFR, javaDB, 국제화, JVM TI,
@@ -46,6 +46,8 @@ IDL, 배포, 보안, trouble shooting, scripting, web service, RMI
 - 자바의 과거, 현재
 - 자바 가상 머신 제품들
 - 자바의 미래
+
+
 ### 실전
 - 내 손으로 빌드하는 JDK
 
