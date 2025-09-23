@@ -7,14 +7,14 @@
     - class file format
     - java class library API
     - third party class library for another enterprise, open source
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
+![alt text](/study-java/resources/얄코1.png)
+![alt text](/study-java/resources/얄코2.png)
+![alt text](/study-java/resources/얄코3.png)
+![alt text](/study-java/resources/얄코4.png)
+![alt text](/study-java/resources/얄코5.png)
+![alt text](/study-java/resources/얄코6.png)
+![alt text](/study-java/resources/얄코7.png)
+![alt text](/study-java/resources/얄코8.png)
 - JDK :
     - java programming language + java virtual machine + java class library
     - java 개발에 필요한 최소 환경
